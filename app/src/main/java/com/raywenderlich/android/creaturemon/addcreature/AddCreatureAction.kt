@@ -1,7 +1,5 @@
 package com.raywenderlich.android.creaturemon.addcreature
 
-import com.raywenderlich.android.creaturemon.mvibase.MviAction
-
 
 sealed class AddCreatureAction {
   data class AvatarAction(val drawable: Int) : AddCreatureAction()
