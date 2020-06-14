@@ -1,7 +1,5 @@
-package com.raywenderlich.android.creaturemon
-import com.raywenderlich.android.creaturemon.addcreature.AddCreatureAction
+package com.raywenderlich.android.creaturemon.addcreature
 import com.raywenderlich.android.creaturemon.addcreature.AddCreatureAction.*
-import com.raywenderlich.android.creaturemon.addcreature.AddCreatureResult
 import com.raywenderlich.android.creaturemon.addcreature.AddCreatureResult.*
 import com.raywenderlich.android.creaturemon.data.model.AttributeStore
 import com.raywenderlich.android.creaturemon.data.model.CreatureAttributes

@@ -1,7 +1,6 @@
 package com.raywenderlich.android.creaturemon.addcreature
 
 import androidx.lifecycle.ViewModel
-import com.raywenderlich.android.creaturemon.AddCreatureProcessorHolder
 import com.raywenderlich.android.creaturemon.addcreature.AddCreatureResult.*
 import com.raywenderlich.android.creaturemon.data.model.CreatureAttributes
 import com.raywenderlich.android.creaturemon.data.model.CreatureGenerator
